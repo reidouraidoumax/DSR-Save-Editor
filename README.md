@@ -2,6 +2,11 @@
 A Windows Forms (.NET 10) save editor for Devil Slayer Raksasi (PS4 saves,
 also works on PC saves - same file format).
 
+**Quick Guide**
+- Decrypt your save with bot/site/SW
+- Import and edit what you want
+- Export and encrypt back to your save
+
 <img width="1275" height="846" alt="image" src="https://github.com/user-attachments/assets/be1fee0f-8eef-4766-9ff5-301a4da30e61" />
 
  **Import Save** (or Ctrl+O): pick a `.dat` save file. The banner shows the

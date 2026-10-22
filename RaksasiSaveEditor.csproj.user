@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>G:\1 - Save Editor Dev\Raksasi Save Editor\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\CategoryPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\EmptyStatePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\FooterBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\GlowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\HeroPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\PillTabStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

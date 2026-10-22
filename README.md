@@ -34,12 +34,6 @@ also works on PC saves - same file format).
   you changed or created, and **recalculates the checksum automatically**.
 
   ## Notes on the fields
-
-- Every field's example value comes directly from the PC save editor
-  author's own confirmed-safe list - even the "ludicrous" ones (8,000,000 HP
-  etc.) are apparently fine.
-- `RESURRECTION_EVIL` isn't on that list but was found in real save data
-  during reverse engineering, so it's included too.
 - When you set `ATTACK_RAW`, `DODGE_RAW`, `ANTI_CHARM`, `SIGHT`, or
   `BONUS_SOUL_RAW`, the editor also mirrors the value onto the character's
   `baseline` stat block *if that field already exists there* - this keeps
